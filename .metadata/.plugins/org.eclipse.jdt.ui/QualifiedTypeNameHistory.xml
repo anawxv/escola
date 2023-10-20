@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="br.com.escola.conexao.Conexao"/>
+    <fullyQualifiedTypeName name="br.com.escola.model.Professor"/>
+    <fullyQualifiedTypeName name="br.com.escola.dao.ProfessorDAO"/>
+</qualifiedTypeNameHistroy>

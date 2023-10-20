@@ -1,0 +1,15 @@
+package br.com.escola.teste;
+
+import br.com.escola.conexao.Conexao;
+
+public class ProgramaDeletar {
+
+	public static void main(String[] args) {
+		
+		Connection con = Conexao.abrirConexao();
+		
+		ProfessorDAO
+
+	}
+
+}

@@ -1,0 +1,12 @@
+package br.com.escola.teste;
+
+public class ProgramaDeletarNome {
+
+	public static void main(String[] args) {
+		
+		
+		
+
+	}
+
+}
